@@ -1,0 +1,6 @@
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\bin\Debug\Cleanup.exe.config
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\bin\Debug\Cleanup.exe
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\bin\Debug\Cleanup.pdb
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\obj\Debug\Cleanup.csprojResolveAssemblyReference.cache
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\obj\Debug\Cleanup.exe
+C:\KREDOR\Source\Referendum\Cleanup\Cleanup\obj\Debug\Cleanup.pdb
